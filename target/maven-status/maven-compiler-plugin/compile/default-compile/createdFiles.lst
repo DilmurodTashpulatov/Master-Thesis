@@ -1,0 +1,9 @@
+com\ieee\Main.class
+com\ieee\Database\InserController.class
+com\ieee\HttpRequest\MapRequest.class
+com\ieee\Models\SearchString.class
+com\ieee\Credentials\Credentials.class
+com\ieee\Models\Paper.class
+com\ieee\Controllers\PerfomrQuery.class
+com\ieee\Models\Author.class
+com\ieee\Controllers\QueryGenerator.class
